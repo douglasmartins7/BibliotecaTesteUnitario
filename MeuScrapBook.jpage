@@ -1,0 +1,18 @@
+ArrayList<Livro> lista = new ArrayList<Livro>();
+
+Livro l1 = new Livro("O Grande Homem");
+Livro l2 = new Livro("A hora é agora");
+
+lista.add(l1);
+lista.add(l2);
+
+Pessoa p1 = new Pessoa;
+p1.setNome("Frederico");
+l1.setPessoa(p1);
+
+
+lista.get(1).getPessoa();
+
+lista.indexOf(l1);
+
+lista.remove(0);
