@@ -1,2 +1,3 @@
 # BibliotecaTesteUnitario
-Loja Virtual
+
+Biblioteca em java utilizando framework JUnit.
